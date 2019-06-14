@@ -1,0 +1,68 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    background-image: url(../imagen/portada.jpg);
+    background-size: 100% 120%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#cuadro{
+    width: 330px;
+    background:#DEDEDE;
+    color:#E41749;
+    font-family: cursive;
+    margin-left: 180px;
+    margin-top: 100px;
+    padding:5px 5px 30px 5px;
+    border-top: 25px solid #eeeeee;
+    border-right:25px solid #eeeeee;
+    border-left:25px solid #eeeeee;
+    border-bottom: 25px solid #eeeeee;
+    border-radius:6px;
+    opacity: 0.8;
+    
+}
+.entrada{
+    width: 320px;
+    height:35px;
+    border-radius:6px;
+    font-family: verdana;
+    font-weight: 900;
+}
+#boton{
+    width: 324px;
+    height: 45px;
+    border-radius: 6px;
+    background: #b31e6f;
+    color:#fff;
+    font-size: 15px;
+}
+#titulo{
+    font-size: 23px;
+    font-family: inherit;
+    color: #b31e6f;
+    text-align: center;    
+}
+
+#subtitulo1{
+    padding-left: 8px;
+    color: black;
+}
+#subtitlo2{
+    padding-left: 8px;
+    color: black;
+}
+#boton:hover{
+    background: #ff8246;
+}
+
+.logo{
+   width: 30%;
+   height: 30%;
+   margin-left: 35%;
+    
+}
+
